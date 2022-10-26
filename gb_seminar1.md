@@ -64,3 +64,4 @@
  * git branch - отображает список веток
  * git branch name - создание новой ветки где name имя ветки.
  
+ * git branch -d name - удаление ветки где name  имя ветки.
